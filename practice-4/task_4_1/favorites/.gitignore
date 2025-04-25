@@ -1,8 +1,13 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
 ### Solana Bootcamp ###
 **/node_modules/
-.env
-
-*.git_*
 
 HELP.md
 target/
@@ -41,3 +46,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
