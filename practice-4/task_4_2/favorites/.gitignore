@@ -6,13 +6,8 @@ node_modules
 test-ledger
 .yarn
 
-*.git_*
-
 ### Solana Bootcamp ###
 **/node_modules/
-.env
-
-*.git_*
 
 HELP.md
 target/
@@ -51,3 +46,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
